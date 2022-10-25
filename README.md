@@ -1,0 +1,2 @@
+# NewTabScript
+a simple sicript
